@@ -41,8 +41,6 @@ A **free, browser-based image editing tool** built with **HTML, CSS, and JavaScr
 
 ## 📸 Screenshots
 
-*(You can add screenshots later — for now, keep this section ready)*  
-```markdown
 <img width="1727" height="908" alt="image" src="https://github.com/user-attachments/assets/d6d9f711-61d6-4b45-8012-b7a0d3d163c1" />
 <img width="1103" height="681" alt="image" src="https://github.com/user-attachments/assets/1250894b-2aa5-4d51-87e7-637bee822497" />
 
